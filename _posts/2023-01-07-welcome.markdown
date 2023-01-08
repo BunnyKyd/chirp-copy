@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "LIFE POST"
+date:   2023-01-07 13:03:16 -0800
+categories: blog
+---
+HEYY
+
+IM GOING TO START BLOGGING ABOUT MY LIFE!!!!
+
+<script src="https://utteranc.es/client.js"
+        repo="BunnyKyd/chirp-copy"
+        issue-term="title"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
