@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Im new!"
+title:  "VIDEO POST"
 date:   2023-01-01 13:03:16 -0800
 categories: blog
 ---
-Hello, Welcome to my site
+Hello, Welcome to the site!
 
 !!!!
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 <script src="https://utteranc.es/client.js"
         repo="BunnyKyd/chirp-copy"
